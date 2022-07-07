@@ -2158,7 +2158,7 @@ a.video-play-btn {
 .feature-bg:after {
   background-image: url(../img/perejil-bg.jpg);
   position: absolute;
-  right: 0;
+  right: 1.25rem;
   top: 0;
   width: 40%;
   height: 100%;
